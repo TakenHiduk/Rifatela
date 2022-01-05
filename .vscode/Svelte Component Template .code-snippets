@@ -1,0 +1,18 @@
+{
+  "Vue Template": {
+    "prefix": "s-component 👌",
+    "body": [
+      "<style lang=\"scss\">",
+      "</style>",
+      "",
+      "<script context=\"module\">",
+      "</script>",
+      "",
+      "<script lang=\"ts\">",
+      "</script>",
+      "",
+      "<span>Welcome to $1</span>"
+    ],
+    "description": "Svelte Component 👌"
+  }
+}

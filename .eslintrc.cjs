@@ -24,6 +24,7 @@ module.exports = {
   ],
   settings: {
     'svelte3/typescript': () => require('typescript'),
+    'svelte3/ignore-styles': () => true,
   },
   parserOptions: {
     sourceType: 'module',
@@ -34,8 +35,8 @@ module.exports = {
     es6: true,
     node: true,
   },
-  rules:{
-    'no-console':process.env.NODE_ENV === 'production'?'error':'warn',
-    'no-debugger':process.env.NODE_ENV === 'production'?'error':'warn'
-  }
+  rules: {
+    'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'warn',
+    'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'warn',
+  },
 };

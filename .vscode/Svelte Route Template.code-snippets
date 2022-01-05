@@ -1,0 +1,22 @@
+{
+  "Vue Template": {
+    "prefix": "s-route 👌",
+    "body": [
+      "<style lang=\"scss\">",
+      "</style>",
+      "",
+      "<script context=\"module\">",
+      "</script>",
+      "",
+      "<script lang=\"ts\">",
+      "</script>",
+      "",
+      "<svelte:head>",
+      "  <title>$1</title>",
+      "</svelte:head>",
+      "",
+      "<span>Welcome to $2</span>"
+    ],
+    "description": "Svelte Route 👌"
+  }
+}

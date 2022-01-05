@@ -7,7 +7,7 @@
     "source.fixAll.eslint": true,
     "source.fixAll.format": true
   },
-  // "css.validate": false, // Disable css built-in lint
-  // "stylelint.enable": true, // Enable sytlelint
-  // "scss.validate": false // Disable scss built-in lint
+  "css.validate": false, // Disable css built-in lint
+  "stylelint.enable": true, // Enable sytlelint
+  "scss.validate": false // Disable scss built-in lint
 }
