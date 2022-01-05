@@ -1,4 +1,7 @@
 <style lang="scss">
+  p {
+    color: red;
+  }
 </style>
 
 <script context="module">
