@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-scss",
+    "PKief.material-icon-theme",
+    "stylelint.vscode-stylelint",
+    "TabNine.tabnine-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "wayou.vscode-todo-highlight",
+    "wix.vscode-import-cost"
+  ]
+}
