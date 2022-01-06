@@ -19,6 +19,13 @@
 </style>
 
 <script context="module">
+  // import type { Load } from '@sveltejs/kit';
+
+  // export const load: Load = ({ url, params }) => {
+  //   console.log(url);
+  //   console.log(params);
+  //   return {};
+  // };
 </script>
 
 <script lang="ts">
